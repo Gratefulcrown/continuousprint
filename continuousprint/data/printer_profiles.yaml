@@ -31,4 +31,14 @@ PrinterProfile:
     selfClearing: false
     defaults:
       clearBed: "Pause"
+      finished: "Generic Off"- name: "Generic"
+    make: "AnyCubic"
+    model: "Chiron"
+    width: 400
+    depth: 400
+    height: 450
+    formFactor: "rectangular"
+    selfClearing: false
+    defaults:
+      clearBed: "Pause"
       finished: "Generic Off"
